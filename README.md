@@ -1,5 +1,5 @@
 # Flutter
-
+        Aminudin Fadila, Institut Teknologi Sumatera, S1 Informatika 2018
 
 Satu codebase untuk android dan ios. awalnya biasa saja mengenal flutter ini toh juga sudah ada React native yang mengusung ide serupa (satu codebase untuk multipalatform). tapi melihat perkembangannya sekarang kurasa flutter lebih menjajikan dengan ditambahkan fitur flutter on web nya yang masih beta. Apalagi google sebagai pengembangnya ingin menguatkan ekosistemnya sendiri yang akan menciptakan "pasar harga mati" demi kelangsungan bisnis >.<.
 
